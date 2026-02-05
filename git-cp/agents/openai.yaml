@@ -1,0 +1,3 @@
+display_name: Git Commit and Push
+short_description: Commit and push current branch changes with a summarized message
+default_prompt: Commit and push the current branch changes with a concise commit message that summarizes the changes.
