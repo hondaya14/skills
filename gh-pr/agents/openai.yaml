@@ -1,0 +1,3 @@
+display_name: "GitHub PR"
+short_description: "Create draft or ready PRs via gh"
+default_prompt: "Use $gh-pr to create a draft or ready PR from the current branch."
